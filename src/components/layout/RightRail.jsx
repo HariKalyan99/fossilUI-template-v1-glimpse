@@ -83,7 +83,7 @@ export function RightRail() {
         <div className="mt-1 normal-case tracking-normal">
           Built by{" "}
           <a
-            href="https://fossilui.space"
+            href="https://fossilui.buzz"
             target="_blank"
             rel="noreferrer"
             className="font-medium text-base-strong hover:opacity-80"
